@@ -21,3 +21,4 @@ jobs:
           git --version 
           git log
           git branch
+          git log --oneline
